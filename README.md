@@ -1,4 +1,5 @@
 Introduction:
+
 The game level is a cube full of water with sharks and octupus spawning repeatedly. 
 The player’s goal is to dive to the very bottem and carry 3 kinds of gold and take it back to the ship at the surface to score. 
 Sharks and octupuses will attack the player in the water. 
@@ -6,17 +7,16 @@ The game is over when player loses all the lives and health points.
 The level is complete when player scores 100 gold points.
 
 Control:
-
 1. W: move forward.
 A: move leftward.
 S: move backward.
 D: move rightward.
-2.Q: rise
+2. Q: rise
 E: dive
-3.Mouse left button: shoot figuring.
+3. Mouse left button: shoot figuring.
 Move Mouse: rotate the camera and the player.
 Left Shift + Move Mouse: rotate the camera only
-4.ESC: Pause the game and open the pause menu, press again to resume, or player can click resume in the menu. 
+4. ESC: Pause the game and open the pause menu, press again to resume, or player can click resume in the menu. 
 
 Mechanism
 Player:
